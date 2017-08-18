@@ -1,0 +1,20 @@
+style.css
+body{
+  font-family: "PTSansNarrowBold";
+}
+
+.caption{
+font-family: "PTSansNarrowBold";
+color: rgb(0, 0, 0,);
+line-height: 42pt;
+font-size: 30pt;
+font-style: bold;
+}
+
+.features-caption{
+  font-family: "PTSansNarrowBold";
+  color: rgb(247, 244, 241,);
+  line-height: 42pt;
+  font-size: 30pt;
+  font-style: bold;
+}
