@@ -2,7 +2,7 @@
 
 * Студент: [Настя Разумова](https://up.htmlacademy.ru/htmlcss/18/user/430575).
 
----
+-* Наставник: [без настаставника]--
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
